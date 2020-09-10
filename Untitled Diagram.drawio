@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-09T14:20:07.215Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="fJ0pPMMPt4USKMdmvscT" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-10T18:28:31.015Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="1bMkaWHo0rTT3xaaS6zr" version="13.6.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2759" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -334,6 +334,9 @@
         </mxCell>
         <mxCell id="msIbOvav1rDU0Rtty9Re-58" value="Discussion - Adapt" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1070" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="msIbOvav1rDU0Rtty9Re-63" value="Vague Guidelines&lt;br&gt;(Adapt beyond these.)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-45" y="390" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
